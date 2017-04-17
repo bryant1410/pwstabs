@@ -1,11 +1,11 @@
 # [PWS Tabs jQuery Plugin](http://alexchizhov.com/pwstabs)<sup>[1.5.0](#%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F-150-20122016)</sup> [![Build Status](https://travis-ci.org/alexchizhovcom/pwstabs.svg?branch=master)](https://travis-ci.org/alexchizhovcom/pwstabs)
 
-####PWS Tabs адаптивный, функциональный jQuery плагин, с интересными эффектами переключения вкладок выполненных с CSS3.
+#### PWS Tabs адаптивный, функциональный jQuery плагин, с интересными эффектами переключения вкладок выполненных с CSS3.
 
 ## Вложенные вкладки<sup>новаяя возможность</sup>
 PWS Tabs jQuery Plugin поддерживает вложенные вкладно неограниченной глубины. Вы можете добавлять неограниченное количество вкладок внутрь вкладок.
 
-##PWS Tabs адаптивный!
+## PWS Tabs адаптивный!
 ![Preview](http://alexchizhov.com/pwstabs/screenshots/pwstabsresponsive600.jpg) ![Preview](http://alexchizhov.com/pwstabs/screenshots/pwstabsresponsive600menu.jpg)
 
 ## Установка с Bower
